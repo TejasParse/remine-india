@@ -1,0 +1,15 @@
+.navbar-buttons:hover{
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background:#60935D;
+
+}
+
+.navbar-bg {
+  background-color: var(--primary-color);
+}
+
+.navbar-buttons {
+    padding: 3px 10px 3px 10px;
+    border-radius: 5px;
+}
